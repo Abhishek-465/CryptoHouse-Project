@@ -1,6 +1,6 @@
 # CryptoHouse Web App
 
-Deployed link:[CryptoHouse Web App](https://jolly-speculoos-19cc36.netlify.app/)
+Deployed link: [CryptoHouse Web App](https://jolly-speculoos-19cc36.netlify.app/)
 
 https://github.com/Abhishek-465/CryptoHouse-Project/assets/127030695/a527ef4f-d08b-4218-9516-798894f45309
 
