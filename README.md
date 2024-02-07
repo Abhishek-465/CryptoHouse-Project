@@ -38,7 +38,7 @@ Join the CryptoHouse community through the integrated forum platform. Connect wi
 
 To get started with CryptoHouse, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/cryptohouse.git`
+1. Clone the repository: `git clone https://github.com/Abhishek-465/CryptoHouse-Project.git`
 2. Install dependencies: `npm install`
 3. Run the web application: `npm start`
 
