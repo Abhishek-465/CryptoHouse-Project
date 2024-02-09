@@ -24,7 +24,7 @@ Stay updated with the latest market values and trends of various cryptocurrencie
 
 ### 3. Latest Articles
 
-![Latest Articles](https://github.com/Abhishek-465/CryptoHouse-Project/assets/127030695/409bb2f6-fa74-40c0-9ab2-718f5d06db86)
+![IMG_20240209_203956_073](https://github.com/Abhishek-465/CryptoHouse-Project/assets/127030695/c6c0c62a-1b26-4c8e-b1ad-64335528e32a)
 
 Access a curated list of the latest articles related to cryptocurrencies. Stay informed about industry news, trends, and expert opinions to enhance your understanding of the crypto landscape.
 
