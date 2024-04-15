@@ -45,7 +45,7 @@ To get started with CryptoHouse, follow these steps:
 ## Technologies Used
 
 - **Frontend:**
-  - React.js for the user interface
+  - React.js powered by Vite for the user interface
   - Tailwind CSS for styling
 
 - **Backend and Database:**
