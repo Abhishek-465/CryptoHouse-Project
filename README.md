@@ -1,8 +1,4 @@
-# CryptoHouse Web App
-
-Deployed link: https://cryptohouseproject.netlify.app/
-
-https://github.com/Abhishek-465/CryptoHouse-Project/assets/127030695/a527ef4f-d08b-4218-9516-798894f45309
+# CryptoHouse Web App 
 
 
 
